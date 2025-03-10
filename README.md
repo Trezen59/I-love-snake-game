@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="260" height="300" src="https://github.com/user-attachments/assets/4ba8c015-c04b-4cbb-8305-817de68b90db">
+</p>
+
 <h2 align="center" >🚀 Building a Classic: My CLI Snake Game! 🐍🎮</h2>
 <p>"Ever tried controlling a snake in real time on Terminal without breaking the game? Well, I did... and it wasn't easy!"
 Problem-solving, real-time movement, and efficient resource management—this project pushed my skills to the next level. Recreating the classic Snake game in a Linux terminal wasn't just about nostalgia; it was an exciting deep dive into game loops, non-blocking input handling, and real-time gameplay mechanics.</p>
